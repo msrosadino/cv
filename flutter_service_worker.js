@@ -4,26 +4,26 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "5fc10240b73452c6a64964c44206397c",
-"index.html": "b2e19ff39746c15a71994ec66dc6aa39",
-"/": "b2e19ff39746c15a71994ec66dc6aa39",
-"main.dart.js": "842968c4842da48b00545cb2c1222d77",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "249509020a5ff9b0836e0cc1f002209d",
+"/": "249509020a5ff9b0836e0cc1f002209d",
+"main.dart.js": "c49f8e7f51bf0e9481ff71b0b970bbbd",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "2e80b11771bfece860bf33f24e3b47ca",
-"assets/AssetManifest.json": "e1aceaf1adf9b0a699c06924dd2f5667",
-"assets/NOTICES": "74a5bed8b0d964bf30fe1606ecdcdefe",
+"assets/AssetManifest.json": "b77195ae1fba0ec89d2a46964b381b90",
+"assets/NOTICES": "fb9e9695eff13a72ecc9316559bef51f",
 "assets/FontManifest.json": "7932cb4e177cfbfe9f50f89ababb2732",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/shaders/ink_sparkle.frag": "75d50a7ef9871f15f4e01d15039da2be",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/images/flutter_logo.png": "4282554fe7a617d7fc4974724ba3e5b7",
 "assets/assets/images/trainings/card_apple.png": "f750efb33b8887d9f9be31fe9f67a0dc",
 "assets/assets/images/trainings/card_tup.png": "690ea5d6b0bcf2d2e9a8902304271ec0",
 "assets/assets/images/trainings/card_ibm.png": "3a5565a9c51cb9b01f532e6b2d97661a",
-"assets/assets/images/profile_blue.png": "5a88ede234be57f0436c8f80299dedae",
 "assets/assets/images/logos/sunlife.png": "0372b7076f7c2a0b1f5f3a21cbc657c9",
 "assets/assets/images/logos/yondu.png": "986be31aecd0ec8f47c1d310a708927c",
 "assets/assets/images/logos/ctc.png": "901c936f59ddc6cf697901496b1de960",
@@ -74,11 +74,12 @@ const RESOURCES = {
 "assets/assets/images/languages/cordova.png": "6f64dfa053e7b84629ef53050866d840",
 "assets/assets/images/languages/ibm_mobilefirst.png": "b478c70c4c3cda5bcb0ab099fc9c1c6a",
 "assets/assets/images/biri.jpg": "7458d9944848984d8283f0328f32036a",
+"assets/assets/images/markrosadino.png": "bf2d6792e694c7d2cc7b30bdf2d7e388",
 "assets/assets/fonts/Merriweather-Regular.ttf": "c97a9fc29652bb4afcdac68020e5d0f7",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -86,7 +87,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -185,9 +185,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
