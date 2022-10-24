@@ -17094,8 +17094,8 @@ q8:function q8(a){this.a=a},
 z3:function z3(a){this.a=null
 this.b=a
 this.c=null},
-a8j(){var s="SR MOBILE DEVELOPER",r="assets/images/languages/java.png",q="Java",p="assets/images/languages/kotlin.png",o="Kotlin",n="assets/images/languages/firebase.png",m="Firebase",l="assets/images/languages/git.png",k="GIT",j="assets/images/languages/mysql.png",i="MySQL Database",h="assets/images/languages/css.png",g="assets/images/languages/javascript.png",f="JavaScript",e="SR ANDROID DEVELOPER",d="assets/images/languages/android.png",c="Android",b="assets/images/languages/junit.png",a="JUnit",a0="\u2022 Agile & Waterfall SDLC",a1="assets/images/languages/php.png",a2="assets/images/languages/jenkins.png",a3="assets/images/languages/jira.png",a4="Jira",a5="assets/images/languages/html.png",a6="ANDROID DEVELOPER",a7=t.s,a8=t.jE
-return new A.Ag(A.a([new A.fk("SEP 2021 - PRESENT","KUMUMEDIA TECHNOLOGIES INC","assets/images/logos/kumu.png",s,A.a(["\u2022 A Filipino video sharing and e-commerce social networking and streaming service","\u2022 Java | Kotlin | Firebase | Git","\u2022 Agile SDLC"],a7),A.a([new A.aa(r,q),new A.aa(p,o),new A.aa(n,m),new A.aa(l,k)],a8)),new A.fk("DEC 2019 - SEPT 2021","STRATPOINT TECHNOLOGIES","assets/images/logos/stratpoint.png",s,A.a(["\u2022 Agile Development, Cloud, Data Engineering & AI services","\u2022 Deployment : ABS-CBN, Globe Telecom","\u2022 Sharea : Hyperlocal community information sharing application","\u2022 Globe At Home : Internet data monitoring tool","\u2022 Beaconforce : AI powered gathering of individual and group employee insights, KPIs, analytics, etc","\u2022 MySql | Java | Kotlin | Firebase | Flutter | Git | Citrix","\u2022 GCash MiniProgram | JavaScript | CSS | XML","\u2022 Agile SDLC"],a7),A.a([new A.aa(j,i),new A.aa(r,q),new A.aa(p,o),new A.aa("assets/images/languages/flutter.png","Flutter"),new A.aa(n,m),new A.aa(h,"CSS"),new A.aa("assets/images/languages/xml.png","XML"),new A.aa(g,f),new A.aa(l,k),new A.aa("assets/images/languages/citrix.png","Citrix")],a8)),new A.fk("NOV 2018 - DEC 2019","NOVARE TECHNOLOGIES","assets/images/logos/novare.png",e,A.a(["\u2022 A global IT solutions provider | Agile","\u2022 Deployment : Metropolitan Bank and Trust Company","\u2022 Metrobank & Earnest : Mobile banking & investment app","\u2022 PostgreSQL | Firebase | Azure | MS App Center | Git","\u2022 Android | Java | Kotlin | JUnit | Mockito | Dagger | ButterKnife","\u2022 Agile SDLC"],a7),A.a([new A.aa("assets/images/languages/postgresql.png","PostgreSQL Database"),new A.aa("assets/images/languages/ms_app_center.png","Microsoft App Center"),new A.aa("assets/images/languages/ms_azure.png","Microsoft Azure"),new A.aa(d,c),new A.aa(p,o),new A.aa(n,m),new A.aa(b,a),new A.aa(l,k)],a8)),new A.fk("JUL 2017 - NOV 2018","FLEXISOURCE IT","assets/images/logos/flexisource.png",e,A.a(["\u2022 An IT consultancy and business services provider","\u2022 Australian-based, Staff augmentation and BPO","\u2022 Catapult Sports : An offshore client, Australian company","\u2022 Athlete Mgmt System / SportsMed | BaseLine | FitBox | FitTeam","\u2022 AWS | Java | Android | Firebase | PHP | Git | Jenkins | Jira",a0],a7),A.a([new A.aa("assets/images/languages/aws.png","Amazon Web Services"),new A.aa(r,q),new A.aa(d,c),new A.aa(n,m),new A.aa(a1,"PHP"),new A.aa(l,k),new A.aa(a2,"Jenkins"),new A.aa(a3,a4)],a8)),new A.fk("JUL 2016 - JUL 2017","SUNLIFE OF CANADA PHILIPPINES","assets/images/logos/sunlife.png","ANALYST PROGRAMMER",A.a(["\u2022 A financial service company","\u2022 Analyze, develop and document system requirements","\u2022 PH, Indonesia, Hong Kong Client & Advisor App maintenance","\u2022 IBM MobileFirst | Hybrid | Java | Android | Firebase","\u2022 Cordova | Ionic | AngularJS | HTML | JavaScript","\u2022 Jenkins | Jira | SVN | Dimensions CM | OracleDB","\u2022 Agile SDLC"],a7),A.a([new A.aa("assets/images/languages/ibm_mobilefirst.png","IBM MobileFirst"),new A.aa("assets/images/languages/oracledb.png","Oracle Database"),new A.aa(d,c),new A.aa(n,m),new A.aa(r,q),new A.aa("assets/images/languages/cordova.png","Cordova"),new A.aa("assets/images/languages/ionic.png","Ionic"),new A.aa("assets/images/languages/angularjs.png","AngularJS"),new A.aa(a5,"HTML"),new A.aa(g,f),new A.aa(a2,"Jenkins"),new A.aa("assets/images/languages/dimensions.png","Serena Dimensions CM"),new A.aa("assets/images/languages/subversion.png","Subversion"),new A.aa(a3,a4)],a8)),new A.fk("FEB 2016 - JUN 2016","SIMPLYHIRED INCORPORATED","assets/images/logos/simplyhired.png",a6,A.a(["\u2022 An online recruitment advertising network","\u2022 Developed native mobile version of the web search application","\u2022 Social media integrations, Map and GeoFencing","\u2022 Java | Android | JUnit | Python | MongoDB | Git | Jira","\u2022 Agile SDLC"],a7),A.a([new A.aa("assets/images/languages/mongodb.png","MongoDB"),new A.aa("assets/images/languages/python.png","Python"),new A.aa(r,q),new A.aa(d,c),new A.aa(b,a),new A.aa(l,k),new A.aa(a3,a4)],a8)),new A.fk("JAN 2015 - FEB 2016","YONDU INCORPORATED","assets/images/logos/yondu.png",a6,A.a(["\u2022 A software development and IT staffing company","\u2022 Developed in-house app for client Rockwell Power Plant Cinema","\u2022 Online Ticket Reservation Tablet Kiosk Application","\u2022 Ticket QR code scanner application for cinema usherette","\u2022 MySql | Java | Android | Espresso | JUnit | Git | Redmine",a0],a7),A.a([new A.aa(j,i),new A.aa(r,q),new A.aa(d,c),new A.aa("assets/images/languages/espresso.png","Espresso"),new A.aa(b,a),new A.aa(l,k),new A.aa("assets/images/languages/redmine.png","Redmine")],a8)),new A.fk("OCT 2009 - DEC 2014","CHASE TECHNOLOGIES CORPORATION","assets/images/logos/ctc.png","SYSTEMS DEVELOPER",A.a(["*SYSTEMS DEVELOPER","\u2022 A business solution systems provider","\u2022 PDT Terminals, Printers, Biometrics, RFID","\u2022 POS, Accounting, Hotel, Parking Systems","\u2022 Pioneered android development","\u2022 Android tablet standalone POS, Android Helpdesk System","\u2022 Visual Basic 6 | Visual FoxPro 9 | Visual SourceSafe","\u2022 Visual Studio.Net | C#.Net | VB.Net | Java | Android","\u2022 PHP CodeIgniter | HTML | CSS | JavaScript","\u2022 MSSql | MySql | Git","\u2022 Waterfall SDLC","*IT SUPPORT ENGINEER (In-House & On-Site)","\u2022 Hardware and software troubleshooting","\u2022 POS Systems, RFID Devices, Cash & Card Dispensers, Printers, Cash Registers, Parking Systems, etc.)"],a7),A.a([new A.aa("assets/images/languages/mssql.png","Microsoft SQL Database"),new A.aa("assets/images/languages/vs_net.png","Microsoft Visual Studio.Net"),new A.aa(j,i),new A.aa("assets/images/languages/vs_sourcesafe.png","Microsoft Visual Studio SourceSafe"),new A.aa("assets/images/languages/vb6.png","Microsoft Visual Basic 6"),new A.aa("assets/images/languages/c_sharp_net.png","Microsoft C#.Net"),new A.aa("assets/images/languages/vb_net.png","Microsoft Visual Basic.Net"),new A.aa("assets/images/languages/foxpro9.png","Microsoft Visual FoxPro 9"),new A.aa(a1,"PHP"),new A.aa("assets/images/languages/php_codeigniter.png","PHP CodeIgniter"),new A.aa(a5,"HTML"),new A.aa(h,"CSS"),new A.aa(g,f),new A.aa(r,q),new A.aa(d,c),new A.aa(l,k)],a8))],t.FA),null)},
+a8j(){var s="assets/images/languages/java.png",r="Java",q="assets/images/languages/kotlin.png",p="Kotlin",o="assets/images/languages/firebase.png",n="Firebase",m="assets/images/languages/git.png",l="GIT",k="assets/images/languages/mysql.png",j="MySQL Database",i="assets/images/languages/css.png",h="assets/images/languages/javascript.png",g="JavaScript",f="SR ANDROID DEVELOPER",e="assets/images/languages/android.png",d="Android",c="assets/images/languages/junit.png",b="JUnit",a="\u2022 Agile & Waterfall SDLC",a0="assets/images/languages/php.png",a1="assets/images/languages/jenkins.png",a2="assets/images/languages/jira.png",a3="Jira",a4="assets/images/languages/html.png",a5="ANDROID DEVELOPER",a6=t.s,a7=t.jE
+return new A.Ag(A.a([new A.fk("SEP 2021 - PRESENT","KUMUMEDIA TECHNOLOGIES INC","assets/images/logos/kumu.png","SR MOBILE DEVELOPER",A.a(["\u2022 A Filipino video sharing and e-commerce social networking and streaming service","\u2022 Java | Kotlin | Firebase | Git","\u2022 Agile SDLC"],a6),A.a([new A.aa(s,r),new A.aa(q,p),new A.aa(o,n),new A.aa(m,l)],a7)),new A.fk("DEC 2019 - SEPT 2021","STRATPOINT TECHNOLOGIES","assets/images/logos/stratpoint.png","TECHNICAL MANAGER I",A.a(["*TECHNICAL MANAGER I (2021)","*SENIOR ANDROID ENGINEER (2019)","\u2022 Agile Development, Cloud, Data Engineering & AI services","\u2022 Deployment : ABS-CBN, Globe Telecom","\u2022 Sharea : Hyperlocal community information sharing application","\u2022 Globe At Home : Internet data monitoring tool","\u2022 Beaconforce : AI powered gathering of individual and group employee insights, KPIs, analytics, etc","\u2022 MySql | Java | Kotlin | Firebase | Flutter | Git | Citrix","\u2022 GCash MiniProgram | JavaScript | CSS | XML","\u2022 Agile SDLC"],a6),A.a([new A.aa(k,j),new A.aa(s,r),new A.aa(q,p),new A.aa("assets/images/languages/flutter.png","Flutter"),new A.aa(o,n),new A.aa(i,"CSS"),new A.aa("assets/images/languages/xml.png","XML"),new A.aa(h,g),new A.aa(m,l),new A.aa("assets/images/languages/citrix.png","Citrix")],a7)),new A.fk("NOV 2018 - DEC 2019","NOVARE TECHNOLOGIES","assets/images/logos/novare.png",f,A.a(["\u2022 A global IT solutions provider | Agile","\u2022 Deployment : Metropolitan Bank and Trust Company","\u2022 Metrobank & Earnest : Mobile banking & investment app","\u2022 PostgreSQL | Firebase | Azure | MS App Center | Git","\u2022 Android | Java | Kotlin | JUnit | Mockito | Dagger | ButterKnife","\u2022 Agile SDLC"],a6),A.a([new A.aa("assets/images/languages/postgresql.png","PostgreSQL Database"),new A.aa("assets/images/languages/ms_app_center.png","Microsoft App Center"),new A.aa("assets/images/languages/ms_azure.png","Microsoft Azure"),new A.aa(e,d),new A.aa(q,p),new A.aa(o,n),new A.aa(c,b),new A.aa(m,l)],a7)),new A.fk("JUL 2017 - NOV 2018","FLEXISOURCE IT","assets/images/logos/flexisource.png",f,A.a(["\u2022 An IT consultancy and business services provider","\u2022 Australian-based, Staff augmentation and BPO","\u2022 Catapult Sports : An offshore client, Australian company","\u2022 Athlete Mgmt System / SportsMed | BaseLine | FitBox | FitTeam","\u2022 AWS | Java | Android | Firebase | PHP | Git | Jenkins | Jira",a],a6),A.a([new A.aa("assets/images/languages/aws.png","Amazon Web Services"),new A.aa(s,r),new A.aa(e,d),new A.aa(o,n),new A.aa(a0,"PHP"),new A.aa(m,l),new A.aa(a1,"Jenkins"),new A.aa(a2,a3)],a7)),new A.fk("JUL 2016 - JUL 2017","SUNLIFE OF CANADA PHILIPPINES","assets/images/logos/sunlife.png","ANALYST PROGRAMMER",A.a(["\u2022 A financial service company","\u2022 Analyze, develop and document system requirements","\u2022 PH, Indonesia, Hong Kong Client & Advisor App maintenance","\u2022 IBM MobileFirst | Hybrid | Java | Android | Firebase","\u2022 Cordova | Ionic | AngularJS | HTML | JavaScript","\u2022 Jenkins | Jira | SVN | Dimensions CM | OracleDB","\u2022 Agile SDLC"],a6),A.a([new A.aa("assets/images/languages/ibm_mobilefirst.png","IBM MobileFirst"),new A.aa("assets/images/languages/oracledb.png","Oracle Database"),new A.aa(e,d),new A.aa(o,n),new A.aa(s,r),new A.aa("assets/images/languages/cordova.png","Cordova"),new A.aa("assets/images/languages/ionic.png","Ionic"),new A.aa("assets/images/languages/angularjs.png","AngularJS"),new A.aa(a4,"HTML"),new A.aa(h,g),new A.aa(a1,"Jenkins"),new A.aa("assets/images/languages/dimensions.png","Serena Dimensions CM"),new A.aa("assets/images/languages/subversion.png","Subversion"),new A.aa(a2,a3)],a7)),new A.fk("FEB 2016 - JUN 2016","SIMPLYHIRED INCORPORATED","assets/images/logos/simplyhired.png",a5,A.a(["\u2022 An online recruitment advertising network","\u2022 Developed native mobile version of the web search application","\u2022 Social media integrations, Map and GeoFencing","\u2022 Java | Android | JUnit | Python | MongoDB | Git | Jira","\u2022 Agile SDLC"],a6),A.a([new A.aa("assets/images/languages/mongodb.png","MongoDB"),new A.aa("assets/images/languages/python.png","Python"),new A.aa(s,r),new A.aa(e,d),new A.aa(c,b),new A.aa(m,l),new A.aa(a2,a3)],a7)),new A.fk("JAN 2015 - FEB 2016","YONDU INCORPORATED","assets/images/logos/yondu.png",a5,A.a(["\u2022 A software development and IT staffing company","\u2022 Developed in-house app for client Rockwell Power Plant Cinema","\u2022 Online Ticket Reservation Tablet Kiosk Application","\u2022 Ticket QR code scanner application for cinema usherette","\u2022 MySql | Java | Android | Espresso | JUnit | Git | Redmine",a],a6),A.a([new A.aa(k,j),new A.aa(s,r),new A.aa(e,d),new A.aa("assets/images/languages/espresso.png","Espresso"),new A.aa(c,b),new A.aa(m,l),new A.aa("assets/images/languages/redmine.png","Redmine")],a7)),new A.fk("OCT 2009 - DEC 2014","CHASE TECHNOLOGIES CORPORATION","assets/images/logos/ctc.png","SYSTEMS DEVELOPER",A.a(["*SYSTEMS DEVELOPER (2011)","\u2022 A business solution systems provider","\u2022 PDT Terminals, Printers, Biometrics, RFID","\u2022 POS, Accounting, Hotel, Parking Systems","\u2022 Pioneered android development","\u2022 Android tablet standalone POS, Android Helpdesk System","\u2022 Visual Basic 6 | Visual FoxPro 9 | Visual SourceSafe","\u2022 Visual Studio.Net | C#.Net | VB.Net | Java | Android","\u2022 PHP CodeIgniter | HTML | CSS | JavaScript","\u2022 MSSql | MySql | Git","\u2022 Waterfall SDLC","*IT SUPPORT ENGINEER (In-House & On-Site) (2009)","\u2022 Hardware and software troubleshooting","\u2022 POS Systems, RFID Devices, Cash & Card Dispensers, Printers, Cash Registers, Parking Systems, etc.)"],a6),A.a([new A.aa("assets/images/languages/mssql.png","Microsoft SQL Database"),new A.aa("assets/images/languages/vs_net.png","Microsoft Visual Studio.Net"),new A.aa(k,j),new A.aa("assets/images/languages/vs_sourcesafe.png","Microsoft Visual Studio SourceSafe"),new A.aa("assets/images/languages/vb6.png","Microsoft Visual Basic 6"),new A.aa("assets/images/languages/c_sharp_net.png","Microsoft C#.Net"),new A.aa("assets/images/languages/vb_net.png","Microsoft Visual Basic.Net"),new A.aa("assets/images/languages/foxpro9.png","Microsoft Visual FoxPro 9"),new A.aa(a0,"PHP"),new A.aa("assets/images/languages/php_codeigniter.png","PHP CodeIgniter"),new A.aa(a4,"HTML"),new A.aa(i,"CSS"),new A.aa(h,g),new A.aa(s,r),new A.aa(e,d),new A.aa(m,l)],a7))],t.FA),null)},
 Ag:function Ag(a,b){this.c=a
 this.a=b},
 fk:function fk(a,b,c,d,e,f){var _=this
@@ -54788,53 +54788,50 @@ n=t.p
 m=A.a([],n)
 for(l=this.c,k=0;k<8;++k)m.push(this.Mz(a,l[k],i))
 return A.c1(j,A.dU(A.a([o,B.cK,new A.df(new A.an(p,0,p,0),A.dU(m,B.X,B.z,B.C),j)],n),B.X,B.z,B.bG),j,j,j,j,new A.an(0,q,0,q),j,j)},
-Mz(a9,b0,b1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7=null,a8="Merriweather"
-if(b1===B.b3){s=12
+Mz(a8,a9,b0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=null,a7="Merriweather"
+if(b0===B.b3){s=12
 r=40
 q=25
 p=10
 o=11
-n=12
-m=10
-l=30}else{s=15
+n=10
+m=30}else{s=15
 r=45
 q=30
 p=12
 o=12
 n=15
-m=15
-l=35}if(b1===B.bz){k=15
+m=35}if(b0===B.bz){l=15
 s=11
 r=37
 q=25
 p=9
 o=10
-n=10
-m=8
-l=25}else k=0
-j=b0.b
-i=A.cV(a7,a7,B.j,a7,a7,a7,a7,a7,a8,a7,a7,s,a7,a7,B.M,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7)
-h=A.cV(a7,a7,B.j,a7,a7,a7,a7,a7,a8,a7,a7,p,a7,a7,B.n,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7)
-g=A.cV(a7,a7,$.xB(),a7,a7,a7,a7,a7,a8,a7,a7,o,a7,a7,B.M,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7)
-f=A.En(a7,a7,a7,a7,a7,B.aM,B.m,a7,1,B.aN)
-e=A.En(a7,a7,a7,a7,a7,B.aM,B.m,a7,1,B.aN)
-d=B.d.aq(127.5)
-c=A.aeC(A.ar(d,0,0,0),1)
-b=t.p
-c=A.a([A.a9T(A.c1(a7,a7,a7,a7,new A.dx(a7,A.a82(B.er,new A.iT(b0.c,a7,a7)),c,B.km,a7,a7,B.ag),q,a7,a7,q),j),A.DM(a7,m,a7)],b)
-for(a=b0.f,a0=a.length,a1=0;a1<a.length;a.length===a0||(0,A.E)(a),++a1){a2=a[a1]
-if(B.c.bH(a2,"*")){a3=A.a4u(a2,"*","")
-a4=$.xB()
-a3=A.dK(a3,new A.n(!0,a4,a7,a7,a7,a7,n,B.M,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7)}else{a3=A.ar(204,0,0,0)
-a3=A.dK(a2,new A.n(!0,a3,a7,a7,a7,a7,n,B.n,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7)}c.push(new A.df(B.z2,a3,a7))}c.push(B.Fy)
-a=b0.r
-if(a.length===0)d=B.JP
-else{a0=A.a([],b)
-for(a3=a.length,a1=0;a1<a.length;a.length===a3||(0,A.E)(a),++a1){a5=a[a1]
-a6=new A.dl(A.ar(d,0,0,0),1,B.aR,B.a2)
-a0.push(A.a9T(A.c1(a7,a7,a7,a7,new A.dx(a7,A.a82(B.er,new A.iT(a5.a,a7,a7)),new A.cK(a6,a6,a6,a6),B.km,a7,a7,B.ag),l,B.lp,a7,l),a5.b))}d=A.WT(A.im(a0,B.a6,B.z,B.C),B.af)}c.push(d)
-c.push(B.Fx)
-return new A.df(new A.an(0,0,0,k),A.ze(new A.B1(A.im(A.a([A.a58(A.c1(a7,A.dU(c,B.X,B.z,B.C),a7,a7,a7,a7,a7,B.lo,a7))],b),B.X,B.z,B.C),a7),a7,a7,new A.Af(a9,j,new A.w(r,10),i,b0.e,h,b0.a,g,f,e,a7),B.A),a7)}}
+n=8
+m=25}else l=0
+k=a9.b
+j=A.cV(a6,a6,B.j,a6,a6,a6,a6,a6,a7,a6,a6,s,a6,a6,B.M,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6)
+i=A.cV(a6,a6,B.j,a6,a6,a6,a6,a6,a7,a6,a6,p,a6,a6,B.n,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6)
+h=A.cV(a6,a6,$.xB(),a6,a6,a6,a6,a6,a7,a6,a6,o,a6,a6,B.M,a6,a6,!0,a6,a6,a6,a6,a6,a6,a6,a6)
+g=A.En(a6,a6,a6,a6,a6,B.aM,B.m,a6,1,B.aN)
+f=A.En(a6,a6,a6,a6,a6,B.aM,B.m,a6,1,B.aN)
+e=B.d.aq(127.5)
+d=A.aeC(A.ar(e,0,0,0),1)
+c=t.p
+d=A.a([A.a9T(A.c1(a6,a6,a6,a6,new A.dx(a6,A.a82(B.er,new A.iT(a9.c,a6,a6)),d,B.km,a6,a6,B.ag),q,a6,a6,q),k),A.DM(a6,n,a6)],c)
+for(b=a9.f,a=b.length,a0=0;a0<b.length;b.length===a||(0,A.E)(b),++a0){a1=b[a0]
+if(B.c.bH(a1,"*")){a2=A.a4u(a1,"*","")
+a3=$.xB()
+a2=A.dK(a2,new A.n(!0,a3,a6,a6,a6,a6,13.5,B.M,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6),a6,a6)}else{a2=A.ar(204,0,0,0)
+a2=A.dK(a1,new A.n(!0,a2,a6,a6,a6,a6,13,B.n,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6),a6,a6)}d.push(new A.df(B.z2,a2,a6))}d.push(B.Fy)
+b=a9.r
+if(b.length===0)e=B.JP
+else{a=A.a([],c)
+for(a2=b.length,a0=0;a0<b.length;b.length===a2||(0,A.E)(b),++a0){a4=b[a0]
+a5=new A.dl(A.ar(e,0,0,0),1,B.aR,B.a2)
+a.push(A.a9T(A.c1(a6,a6,a6,a6,new A.dx(a6,A.a82(B.er,new A.iT(a4.a,a6,a6)),new A.cK(a5,a5,a5,a5),B.km,a6,a6,B.ag),m,B.lp,a6,m),a4.b))}e=A.WT(A.im(a,B.a6,B.z,B.C),B.af)}d.push(e)
+d.push(B.Fx)
+return new A.df(new A.an(0,0,0,l),A.ze(new A.B1(A.im(A.a([A.a58(A.c1(a6,A.dU(d,B.X,B.z,B.C),a6,a6,a6,a6,a6,B.lo,a6))],c),B.X,B.z,B.C),a6),a6,a6,new A.Af(a8,k,new A.w(r,10),j,a9.e,i,a9.a,h,g,f,a6),B.A),a6)}}
 A.fk.prototype={}
 A.aa.prototype={}
 A.Be.prototype={
@@ -54847,7 +54844,7 @@ o=15}else{s=5
 r=20
 q=18
 p=15
-o=20}return A.c1(n,A.dU(A.a([B.tp,B.cK,A.dK("Mark Soliven Rosadino".toUpperCase(),A.cV(n,n,B.j,n,n,n,n,n,n,n,n,q,n,n,B.M,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.dK("Software Engineer",A.cV(n,n,B.j,n,n,n,n,n,n,n,n,p,n,n,B.n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.DM(n,o,n),A.dK("I'm a software engineer with over 10 years of practice in the Information Technology industry. I specialized in mobile application development and has considerable experience in desktop and web development. \n\nRecently, I started exploring more on back-end development frameworks such as Python & NodeJS to engine some of my personal web projects.",A.cV(n,n,B.j,n,n,n,n,n,n,n,n,14,B.d6,n,B.n,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.za],t.p),B.X,B.z,B.bG),n,n,n,n,n,new A.an(r,r,r,r),this.c.a/s)}}
+o=20}return A.c1(n,A.dU(A.a([B.tp,B.cK,A.dK("Mark Soliven Rosadino".toUpperCase(),A.cV(n,n,B.j,n,n,n,n,n,n,n,n,q,n,n,B.M,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.dK("Software Engineer",A.cV(n,n,B.j,n,n,n,n,n,n,n,n,p,n,n,B.n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.DM(n,o,n),A.dK("I'm a software engineer with over 10 years of practice in the Information Technology industry. I specialized in mobile application development and has considerable experience in desktop and web development. \n\nRecently, I started exploring more on back-end development frameworks such as NodeJS & Python to engine some of my personal web projects.",A.cV(n,n,B.j,n,n,n,n,n,n,n,n,14,B.d6,n,B.n,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.za],t.p),B.X,B.z,B.bG),n,n,n,n,n,new A.an(r,r,r,r),this.c.a/s)}}
 A.tl.prototype={
 L(a){var s,r,q,p,o=null,n=A.D6(a)
 if(n===B.b3){s=10
