@@ -17181,7 +17181,7 @@ this.a=b},
 tp:function tp(a){this.a=a},
 Uq:function Uq(){},
 Ur:function Ur(){},
-aa1(){return new A.E0(A.a([new A.is("Android Java",0.9),new A.is("Android Kotlin",0.75),new A.is("Flutter",0.7),new A.is("Javascript",0.5),new A.is("NodeJS",0.4),new A.is("VB6/VB.Net/C#.Net",0.3)],t.pS),null)},
+aa1(){return new A.E0(A.a([new A.is("Android Java",0.9),new A.is("Android Kotlin",0.8),new A.is("Flutter",0.7),new A.is("Javascript",0.5),new A.is("NodeJS",0.4),new A.is("VB6/VB.Net/C#.Net",0.3)],t.pS),null)},
 E0:function E0(a,b){this.c=a
 this.a=b},
 is:function is(a,b){this.a=a
