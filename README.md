@@ -1,4 +1,4 @@
-# Onlinee Resume
+# My Online Resume
 My personal online resume made with Flutter
 
 # Getting started
